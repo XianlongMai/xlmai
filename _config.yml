@@ -1,3 +1,18 @@
-title: My GitHub Page
+title: Welcome to Xianlong Mai's Homepage!
 description: Powered by Jekyll
 theme: minima
+email: mxl2726@mail.ustc.edu.cn
+baseurl: ""
+url: "https://xlmai.github.io"
+
+# 导航栏页面顺序
+header_pages:
+  - index.md
+  - blog.md
+  - projects.md
+  - gallery.md
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
